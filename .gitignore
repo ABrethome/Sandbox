@@ -114,9 +114,6 @@ venv.bak/
 .spyderproject
 .spyproject
 
-# Rope project settings
-.ropeproject
-
 # mkdocs documentation
 /site
 
@@ -131,4 +128,23 @@ dmypy.json
 # VS Code
 *.code-workspace
 
-/drafts/** */
+# pixi environments
+.pixi
+
+# OSX
+.DS_Store
+
+# Azure ML artifacts
+*.amlignore
+*.amlignore.tmp
+*.amltmp
+
+# Rope project settings
+.ropeproject
+
+# Ruff
+.ruff_cache/
+
+# certificates
+*.pem
+*.crt
