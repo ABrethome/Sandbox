@@ -1,0 +1,4 @@
+SERVER:
+  host: localhost
+  port: 3002
+  transport: streamable-http

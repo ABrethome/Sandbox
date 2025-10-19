@@ -148,3 +148,7 @@ dmypy.json
 # certificates
 *.pem
 *.crt
+
+# sqllite
+*.db
+*.db.wal
